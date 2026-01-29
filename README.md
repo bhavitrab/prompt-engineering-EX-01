@@ -1,5 +1,22 @@
 <h1>Aim: Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Explain the foundational concepts of Generative AI.
 Focusing on Generative AI architectures. (like transformers).
 Generative AI applications.
