@@ -53,6 +53,9 @@ Step 7: Finalize and Export 7.1 Format the report professionally 7.2 Export as P
 
 Artificial Intelligence (AI) has evolved from rule-based systems to data-driven learning models. Generative AI is a modern paradigm that allows machines not only to analyze data but also to create new and meaningful content. This experiment aims to study the principles, architectures, and real-world applications of Generative AI and LLMs.
 
+<img width="781" height="511" alt="Screenshot 2026-02-03 143738" src="https://github.com/user-attachments/assets/b5101f75-2397-4e99-a3cb-d89d1f56b20c" />
+
+
 
 <h3>Key Characteristics:</h3>
 
@@ -137,6 +140,9 @@ Transformers, introduced in the 2017 "Attention is All You Need" paper, replace 
 
 *Diffusion Models
 
+<img width="696" height="331" alt="Screenshot 2026-02-03 201354" src="https://github.com/user-attachments/assets/eeb4d545-aa8c-4c44-804a-97eb89302249" />
+
+
 
 <h2>Key Applications:</h2>
 
@@ -207,4 +213,7 @@ Instruction Tuning: Humans provide examples of good Q&A pairs (e.g., "Write a po
 
 RLHF (Reinforcement Learning from Human Feedback): Human testers rank different AI responses. The model learns that humans prefer helpful, honest, and harmless answers over toxic or nonsensical ones.
 
+references:gemini,chatgpt,perplexity.
+
 Result
+The report demonstrates that scaling LLMs unlocks powerful capabilities, but also introduces cost, efficiency, and ethical challenges. The future lies in smarter scaling — balancing size with efficiency rather than just building endlessly larger models.
