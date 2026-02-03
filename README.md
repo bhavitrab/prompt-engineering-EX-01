@@ -106,7 +106,7 @@ Generative AI creates new content like text, images, or music by learning patter
 
 *Creation Focus: It emphasizes synthesis over recognition, enabling applications like ChatGPT for text or DALL-E for visuals.
 
-<h2>history</h2>
+<h2>history:</h2>
 <img width="901" height="738" alt="Screenshot 2026-01-29 112821" src="https://github.com/user-attachments/assets/5e8da922-89c2-4bc5-b000-ededc15a43a9" />
 
 
