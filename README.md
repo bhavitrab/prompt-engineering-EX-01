@@ -242,6 +242,6 @@ Models are being tailored for medicine, law, finance, and education, combining d
 
 references:gemini,chatgpt,perplexity.
 
-Result:
+<h3>Result:</h3>
 
 The report demonstrates that scaling LLMs unlocks powerful capabilities, but also introduces cost, efficiency, and ethical challenges. The future lies in smarter scaling — balancing size with efficiency rather than just building endlessly larger models.
