@@ -178,6 +178,9 @@ An LLM (Large Language Model) is a type of Artificial Intelligence trained to un
 How an LLM is Built
 Building a modern LLM (like GPT-4 or Llama 3) involves a massive engineering pipeline that can be broken down into four main stages.
 
+<img width="1024" height="1024" alt="Gemini_Generated_Image_4omkgj4omkgj4omk" src="https://github.com/user-attachments/assets/0fdd8888-74af-4109-9ee7-98ea3f74bc7f" />
+
+
 1. Data Collection & Preprocessing:
 The model needs a "textbook" the size of the internet.
 
