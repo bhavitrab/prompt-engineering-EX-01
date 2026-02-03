@@ -101,6 +101,9 @@ Generative AI creates new content like text, images, or music by learning patter
 
 *Discriminative vs. Generative: Traditional AI predicts labels (e.g., "cat" or "dog" in an image); generative AI creates entirely new instances (e.g., a realistic cat image from scratch).
 ​
+
+
+
 *Creation Focus: It emphasizes synthesis over recognition, enabling applications like ChatGPT for text or DALL-E for visuals.
 
 <h2>history</h2>
