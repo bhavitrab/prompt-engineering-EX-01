@@ -100,6 +100,14 @@ Discriminative vs. Generative: Traditional AI predicts labels (e.g., "cat" or "d
 ​
 Creation Focus: It emphasizes synthesis over recognition, enabling applications like ChatGPT for text or DALL-E for visuals.
 
+<h2>history</h2>
+<img width="901" height="738" alt="Screenshot 2026-01-29 112821" src="https://github.com/user-attachments/assets/5e8da922-89c2-4bc5-b000-ededc15a43a9" />
+
+
+<img width="383" height="64" alt="Screenshot 2026-01-29 112840" src="https://github.com/user-attachments/assets/adcd1e52-4628-4421-99f8-63b5a5edd257" />
+
+
+
 
 <h2>Focusing on Generative AI architectures:</h2>
 
