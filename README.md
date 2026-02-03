@@ -49,7 +49,7 @@ Step 6: Review and Edit 6.1 Proofread for grammar, spelling, and clarity 6.2 Ens
 Step 7: Finalize and Export 7.1 Format the report professionally 7.2 Export as PDF or desired format 7.3 Prepare a brief presentation if required (optional)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Introduction:
+<h4>Introduction:</h4>
 
 Artificial Intelligence (AI) has evolved from rule-based systems to data-driven learning models. Generative AI is a modern paradigm that allows machines not only to analyze data but also to create new and meaningful content. This experiment aims to study the principles, architectures, and real-world applications of Generative AI and LLMs.
 
