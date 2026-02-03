@@ -54,7 +54,7 @@ Step 7: Finalize and Export 7.1 Format the report professionally 7.2 Export as P
 Artificial Intelligence (AI) has evolved from rule-based systems to data-driven learning models. Generative AI is a modern paradigm that allows machines not only to analyze data but also to create new and meaningful content. This experiment aims to study the principles, architectures, and real-world applications of Generative AI and LLMs.
 
 
-Key Characteristics:
+<h3>Key Characteristics:</h3>
 
 Ability to generate original content
 
@@ -64,59 +64,56 @@ Uses probabilistic and deep learning approaches
 
 
 
-Foundational Concepts of generative AI:
+<h2>Foundational Concepts of generative AI:</h2>
+
 Generative AI creates new content like text, images, or music by learning patterns from large datasets, differing from traditional AI that classifies or predicts. It relies on models such as GANs, VAEs, and transformers trained via self-supervised learning on unlabeled data to generate human-like outputs. Key features include extensive training on diverse data and generative abilities that produce novel content beyond mere analysis.
 
 
 
 
-How It Works:
+<h3>How It Works:</h3>
+
 Data Collection: Gather massive datasets (e.g., internet text, images) to capture patterns and variations.
 ​
-
 Training Phase: Models learn underlying structures via deep neural networks, often through unsupervised or self-supervised methods like predicting next tokens.
 
 Latent Space: Data compresses into a mathematical "latent space" representing learned features, from which new samples are sampled.
 ​
-
 Generation/Inference: Input a prompt; the model decodes from latent space to output coherent content, refined iteratively.
 
 Fine-Tuning: Adjust for specific tasks using human feedback (e.g., RLHF in LLMs).
 ​
 
-Main Model Types:
+<h3>Main Model Types:</h3>
 GANs (Generative Adversarial Networks): Two networks compete—generator creates fakes, discriminator spots them—yielding sharp images.
 ​
-
 VAEs (Variational Autoencoders): Encode-decode with probabilistic sampling for diverse, smooth outputs.
 ​
-
 Diffusion Models: Add/remove noise iteratively for high-quality results (e.g., Stable Diffusion).
 ​
-
 Transformers: Sequence-based for text/images, powering LLMs via self-attention.
 
 
+<h3>Key Differences from Traditional AI:</h3>
 
-Key Differences from Traditional AI:
 Discriminative vs. Generative: Traditional AI predicts labels (e.g., "cat" or "dog" in an image); generative AI creates entirely new instances (e.g., a realistic cat image from scratch).
 ​
-
 Creation Focus: It emphasizes synthesis over recognition, enabling applications like ChatGPT for text or DALL-E for visuals.
 
 
+<h2>Focusing on Generative AI architectures:</h2>
 
-Focusing on Generative AI architectures:
 Generative AI architectures enable models to create new data by learning underlying patterns from vast datasets, powering everything from text generation to realistic images. Transformers lead modern implementations due to their scalability, while specialized designs like GANs and diffusion models excel in specific domains such as vision.
 
 
 
-Core Architecture Overview:
+<h3>Core Architecture Overview:</h3>
+
 Transformers, introduced in the 2017 "Attention is All You Need" paper, replace recurrent networks (RNNs/LSTMs) with parallelizable self-attention mechanisms. They consist of an encoder-decoder structure: encoders process input sequences into contextual representations, while decoders generate outputs autoregressively. For pure generation (e.g., GPT), decoder-only variants are used, focusing on next-token prediction.
 
 
  
-neural network architectures:
+<h3>neural network architectures:</h3>
 
 *Feedforward Neural Networks (FNNs)
 
@@ -133,7 +130,7 @@ neural network architectures:
 *Diffusion Models
 
 
-Key Applications:
+<h2>Key Applications:</h2>
 
 Chatbots/Virtual Assistants: GPT-based models (ChatGPT, Google Gemini) handle conversations, code debugging, tutoring (e.g., Duolingo AI Tutor personalizes lessons).
 
@@ -141,9 +138,7 @@ Content Creation: Automated writing, summarization, translation (e.g., Netflix r
 
 Software Development: GitHub Copilot generates code snippets from prompts.
 ​
-
 Personalization: Amazon Alexa tailors shopping suggestions.
-
 
 Generative AI impact of scaling in LLMs:
 
@@ -157,7 +152,7 @@ Compute Power – GPUs/TPUs and training time
 
 This idea is known as scaling laws in Large Language Models.
 
-other aspects:
+<h3>other aspects:</h3>
 
 Emergent Abilities: Once a model hits a certain size, it "unlocks" skills it wasn't specifically trained for, like complex reasoning, coding, and solving riddles.
 
@@ -168,12 +163,9 @@ Quality over Quantity: Modern scaling (the "Chinchilla" approach) shows that tra
 Inference Scaling: The new trend isn't just bigger models, but giving models more "time to think" (compute) before they answer, which boosts intelligence during the conversation itself.
 
 
-
-Explain about LLM and how it is build:
+<h2>Explain about LLM and how it is build:</h2>
 
 An LLM (Large Language Model) is a type of Artificial Intelligence trained to understand, generate, and manipulate human language. Think of it as a highly advanced version of "autocomplete" that has read almost everything ever written on the internet, allowing it to predict the next word in a sequence with incredible accuracy.
-
-
 
 How an LLM is Built
 Building a modern LLM (like GPT-4 or Llama 3) involves a massive engineering pipeline that can be broken down into four main stages.
@@ -204,14 +196,4 @@ Instruction Tuning: Humans provide examples of good Q&A pairs (e.g., "Write a po
 
 RLHF (Reinforcement Learning from Human Feedback): Human testers rank different AI responses. The model learns that humans prefer helpful, honest, and harmless answers over toxic or nonsensical ones.
 
-
-
-
-
-
-
-
-
-
-Output
 Result
