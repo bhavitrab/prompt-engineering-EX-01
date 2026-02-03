@@ -140,7 +140,7 @@ Software Development: GitHub Copilot generates code snippets from prompts.
 ​
 Personalization: Amazon Alexa tailors shopping suggestions.
 
-Generative AI impact of scaling in LLMs:
+<h2>Generative AI impact of scaling in LLMs:</h2>
 
 In Generative AI, scaling refers to increasing three key factors together:
 
