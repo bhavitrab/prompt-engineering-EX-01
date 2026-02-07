@@ -61,7 +61,7 @@ Step 6: Review and Edit 6.1 Proofread for grammar, spelling, and clarity 6.2 Ens
 Step 7: Finalize and Export 7.1 Format the report professionally 7.2 Export as PDF or desired format 7.3 Prepare a brief presentation if required (optional)
 
 <h1>Comprehensive Report on the Fundamentals of Generative AI and Large Language Models</h1>
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <h1>OVERVIEW</h1>
 Generative Artificial Intelligence (Generative AI) represents a significant shift in the evolution of intelligent systems, moving beyond traditional rule-based and predictive models toward machines capable of creating new and meaningful content. This report provides a comprehensive study of Generative AI and Large Language Models (LLMs), covering their foundational concepts, historical development, core architectures, and real-world applications.
 
@@ -70,18 +70,18 @@ The report explains how generative models such as GANs, VAEs, diffusion models, 
 In addition, the report discusses key applications of Generative AI across domains such as conversational systems, content creation, and software development, while addressing critical challenges including ethical concerns, computational costs, and interpretability. Finally, it outlines future directions focused on efficient modeling, continual learning, and domain-specific integration, emphasizing the need for responsible and balanced advancement of generative technologies.
 
 <h1>TABLE OF CONTENT</h1>
-*<h2>Introduction:</h2>
-*<h2>Foundational Concepts of generative AI:</h2>
+<h2>Introduction:</h2>
+<h2>Foundational Concepts of generative AI:</h2>
 <h3>How It Works:</h3>
 <h3>Main Model Types:</h3>
 <h3>Key Differences from Traditional AI:</h3>
-*<H2>2024 AI tools</H2>
-*<h2>Focusing on Generative AI architectures:</h2>
+<H2>2024 AI tools</H2>
+<h2>Focusing on Generative AI architectures:</h2>
 <h3>Core Architecture Overview:</h3>
 <h3>neural network architectures:</h3>
 <h3>Key Applications:</h3>
-*<h2>Explain about LLM and how it is build:</h2>
-*<H2>Create a Timeline Chart for defining the Evolution of AI</H2>
+<h2>Explain about LLM and how it is build:</h2>
+<H2>Create a Timeline Chart for defining the Evolution of AI</H2>
 
 
 <h2>Introduction:</h2>
