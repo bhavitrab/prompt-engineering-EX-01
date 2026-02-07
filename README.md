@@ -70,18 +70,18 @@ The report explains how generative models such as GANs, VAEs, diffusion models, 
 In addition, the report discusses key applications of Generative AI across domains such as conversational systems, content creation, and software development, while addressing critical challenges including ethical concerns, computational costs, and interpretability. Finally, it outlines future directions focused on efficient modeling, continual learning, and domain-specific integration, emphasizing the need for responsible and balanced advancement of generative technologies.
 
 <h1>TABLE OF CONTENT</h1>
-<h2>Introduction:</h2>
-<h2>Foundational Concepts of generative AI:</h2>
-<h3>How It Works:</h3>
-<h3>Main Model Types:</h3>
-<h3>Key Differences from Traditional AI:</h3>
-<H2>2024 AI tools</H2>
-<h2>Focusing on Generative AI architectures:</h2>
-<h3>Core Architecture Overview:</h3>
-<h3>neural network architectures:</h3>
-<h3>Key Applications:</h3>
-<h2>Explain about LLM and how it is build:</h2>
-<H2>Create a Timeline Chart for defining the Evolution of AI</H2>
+<h2>1.Introduction:</h2>
+<h2>2.Foundational Concepts of generative AI:</h2>
+<h3>How It Works</h3>
+<h3>Main Model Types</h3>
+<h3>Key Differences from Traditional AI</h3>
+<H2>3.2024 AI tools</H2>
+<h2>4.Focusing on Generative AI architectures</h2>
+<h3>Core Architecture Overview</h3>
+<h3>neural network architectures</h3>
+<h3>Key Applications</h3>
+<h2>5.Explain about LLM and how it is build</h2>
+<H2>a Timeline Chart for defining the Evolution of AI</H2>
 
 
 <h2>Introduction:</h2>
