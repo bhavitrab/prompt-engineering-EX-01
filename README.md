@@ -70,7 +70,7 @@ The report explains how generative models such as GANs, VAEs, diffusion models, 
 In addition, the report discusses key applications of Generative AI across domains such as conversational systems, content creation, and software development, while addressing critical challenges including ethical concerns, computational costs, and interpretability. Finally, it outlines future directions focused on efficient modeling, continual learning, and domain-specific integration, emphasizing the need for responsible and balanced advancement of generative technologies.
 
 <h1>TABLE OF CONTENT</h1>
-<h2>1.Introduction:</h2>
+<h2>1.Introduction</h2>
 <h2>2.Foundational Concepts of generative AI:</h2>
 <h3>How It Works</h3>
 <h3>Main Model Types</h3>
